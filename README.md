@@ -23,7 +23,10 @@ Python (Pandas, SciPy, Matplotlib), Excel
 - Consider further tests for other elements
 
 AB-Test-Analysis/
-│
+
+├─ /data   →https://www.kaggle.com/datasets/zhangluyuan/ab-testing 
+
+
 ├─ /notebooks
 │    └─ AB_Test_Analysis.ipynb[AB_Test_Project (1).ipynb](https://github.com/user-attachments/files/23813255/AB_Test_Project.1.ipynb)
 
